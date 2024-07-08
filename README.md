@@ -39,7 +39,7 @@ The Patima application is a project that aimed to restore headless Sri Lankan Bu
     </tr>
 </table>
 
-<p class="italic"><sup>*</sup> - The Android App is same in these two repos. The only difference is, one is hosted in the cloud server as we planned, and one is working by local SQLite DB. When you are checking for Functional and Non - Functial Requirements for the Mobile Application, if you experience problems, please feel free to choose in between.</p>
+<p style="font-style: italic;"><sup>*</sup> - The Android App is same in these two repos. The only difference is, one is hosted in the cloud server as we planned, and one is working by local SQLite DB. When you are checking for Functional and Non - Functial Requirements for the Mobile Application, if you experience problems, please feel free to choose in between.</p>
 
 <h2>Sample Data</h2>
 
@@ -66,7 +66,26 @@ The Patima application is a project that aimed to restore headless Sri Lankan Bu
     </tr>
 </table>
 
-<p class="italic">Dummy data are also inserted to these logins. Please download the App and use these credentilas to see these data. For the Admin Panel, use the given info to login.</p>
+<p style="font-style: italic;">Dummy data are also inserted to these logins. Please download the App and use these credentials to see these data. For the Admin Panel, use the given info to login.</p>
 
+<h2>Team - Ones and Zeros</h2>
 
+<table>
+    <tr>
+        <th>Member</th>
+    </tr>
+    <tr>
+        <td>Malindu Liyanage</td>
+    </tr>
+    <tr>
+        <td>Dumidu Pramith</td>
+    </tr>
+    <tr>
+        <td>Deeshaka Wijewickrama</td>
+    </tr>
+    <tr>
+        <td>Poornima Dissanayake</td>
+    </tr>
+</table>
 
+<p style="font-style: italic;">This is the final year project for:<br>Dept. of Computing,<br>Faculty of Applied Sciences,<br>Rajarata University of Sri Lanka<br>Year - 19/20 (2024)</p>
