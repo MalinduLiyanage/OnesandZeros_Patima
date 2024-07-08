@@ -22,19 +22,19 @@ The Patima application is a project that aimed to restore headless Sri Lankan Bu
         <td colspan="2">Under Construction</td>
     </tr>
     <tr>
-        <td>03.01 Mobile Application - Cloud Hosted MySQL DB<sup>*</sup></td>
+        <td>03.01 (a) Mobile Application - Cloud Hosted MySQL DB<sup>*</sup></td>
         <td>03, 04, 05, 09, 10, 15, 16, 19, 20, 21, 22</td>
         <td><a href="https://github.com/MalinduLiyanage/Patima_App_Android_Java_YOLOv8_Django">Github Link</a></td>
         <td><a href="https://yourdomain.com/mobile-app">Get APK</a></td>
     </tr>
     <tr>
-        <td>03.02 Mobile Application - Local SQLite DB<sup>*</sup></td>
+        <td>03.01 (b) Mobile Application - Local SQLite DB<sup>*</sup></td>
         <td>03, 04, 05, 06, 07, 08, 09, 10, 11, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26<sup>**</sup></td>
         <td><a href="https://github.com/MalinduLiyanage/Patima_App_Android_Java_YOLOv8_SQLite">Github Link</a></td>
         <td><a href="https://yourdomain.com/mobile-app">Get APK</a></td>
     </tr>
     <tr>
-        <td>03.03 Admin Panel + Server</td>
+        <td>03.02 Admin Panel + Server</td>
         <td>06, 07, 08, 11, 12, 13, 14, 17, 18, 23, 24, 25, 26</td>
         <td><a href="https://github.com/DumiduPramith/patima-backend-django">Github Link</a></td>
         <td><a href="http://140.238.225.128/admin/login">Goto Admin Panel</a></td>
@@ -45,7 +45,7 @@ The Patima application is a project that aimed to restore headless Sri Lankan Bu
     </tr>
 </table>
 
-<p style="font-style: italic;"><sup>*</sup> - The Android App is same in these two repos. The only difference is, one is hosted in the cloud server as we planned, and one is working by local SQLite DB. When you are checking for Functional and Non - Functial Requirements for the Mobile Application, if you experience problems, please feel free to choose in between.</p><br>
+<p style="font-style: italic;"><sup>*</sup> - The Android App is same in these two repos. The only difference is, one is hosted in the cloud server as we planned, and one is working by local SQLite DB. When you are checking for Functional and Non - Functial Requirements for the Mobile Application, if you experience problems, please feel free to choose in between. The admin panel is only affected to the Cloud hosted app, not for the app with local DB.</p><br>
 <p style="font-style: italic;"><sup>**</sup> - The App based on the Local Database has all Functional Requirements related to App itself and server side, since it is not relying on a cloud server.</p>
 
 <h2>Sample Data</h2>
