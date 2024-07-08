@@ -3,3 +3,6 @@ The Patima application is a project that aimed to restore headless Sri Lankan Bu
 
 #Android Application
 <a href="https://github.com/MalinduLiyanage/Patima_App_Android_Java_YOLOv8_Django" target="_blank">Go to GitHub Repository</a>
+
+#U - Net Segmentation Model
+<a href="https://github.com/MalinduLiyanage/Buddha_Statue_Segmentation_UNet" target="_blank">Go to GitHub Repository</a>
