@@ -86,12 +86,12 @@ The Patima application is a project that aimed to restore headless Sri Lankan Bu
     </tr>
     <tr>
         <td>Deeshaka Wijewickrama</td>
-        <td>MICT1920123</td>
+        <td>ICT1920123</td>
         <td>5058</td>
     </tr>
     <tr>
         <td>Poornima Dissanayake</td>
-        <td>MICT1920028</td>
+        <td>ICT1920028</td>
         <td>4969</td>
     </tr>
 </table>
