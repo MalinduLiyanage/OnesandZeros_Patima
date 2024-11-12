@@ -39,9 +39,6 @@ The Patima application is a project that aimed to restore headless Sri Lankan Bu
     </tr>
 </table>
 
-<p style="font-style: italic;"><sup>*</sup> - The Android App is same in these two repos. The only difference is, one is hosted in the cloud server as we planned, and one is working by local SQLite DB. When you are checking for Functional and Non - Functial Requirements for the Mobile Application, if you experience problems, please feel free to choose in between. The admin panel is only affected to the Cloud hosted app, not for the app with local DB.</p><br>
-<p style="font-style: italic;"><sup>**</sup> - The App based on the Local Database has all Functional Requirements related to App itself and server side, since it is not relying on a cloud server.</p>
-
 <h2>Sample Data</h2>
 
 <table>
@@ -74,18 +71,28 @@ The Patima application is a project that aimed to restore headless Sri Lankan Bu
 <table>
     <tr>
         <th>Member</th>
+        <th>Reg. No</th>
+        <th>Index No.</th>
     </tr>
     <tr>
         <td>Malindu Liyanage</td>
+        <td>ICT1920067</td>
+        <td>5005</td>
     </tr>
     <tr>
         <td>Dumidu Pramith</td>
+        <td>ICT1920048</td>
+        <td>4989</td>
     </tr>
     <tr>
         <td>Deeshaka Wijewickrama</td>
+        <td>MICT1920123</td>
+        <td>5058</td>
     </tr>
     <tr>
         <td>Poornima Dissanayake</td>
+        <td>MICT1920028</td>
+        <td>4969</td>
     </tr>
 </table>
 
