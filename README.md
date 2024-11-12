@@ -22,16 +22,10 @@ The Patima application is a project that aimed to restore headless Sri Lankan Bu
         <td colspan="2">Under Construction</td>
     </tr>
     <tr>
-        <td>03.01 (a) Mobile Application - Cloud Hosted MySQL DB<sup>*</sup></td>
+        <td>03.01 Mobile Application - Cloud Hosted MySQL DB<sup>*</sup></td>
         <td>03, 04, 05, 09, 10, 15, 16, 19, 20, 21, 22</td>
         <td><a href="https://github.com/MalinduLiyanage/Patima_App_Android_Java_YOLOv8_Django">Github Link</a></td>
         <td><a href="https://github.com/MalinduLiyanage/Patima_App_Android_Java_YOLOv8_Django/releases/tag/v1.0">See releases</a></td>
-    </tr>
-    <tr>
-        <td>03.01 (b) Mobile Application - Local SQLite DB<sup>*</sup></td>
-        <td>03, 04, 05, 06, 07, 08, 09, 10, 11, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26<sup>**</sup></td>
-        <td><a href="https://github.com/MalinduLiyanage/Patima_App_Android_Java_YOLOv8_SQLite">Github Link</a></td>
-        <td><a href="https://drive.google.com/file/d/1E_Ggt6RcawprX9p877cKR4fbWGE0hHBn/view?usp=sharing">Get APK</a></td>
     </tr>
     <tr>
         <td>03.02 Admin Panel + Server</td>
