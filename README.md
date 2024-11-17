@@ -19,7 +19,8 @@ The Patima application is a project that aimed to restore headless Sri Lankan Bu
     <tr>
         <td>02. Statue Inpainting Model</td>
         <td>01</td>
-        <td colspan="2">Under Construction</td>
+        <td><a href="https://github.com/MalinduLiyanage/Buddha_Statue_Inpainting_Pix2Pix">Github Link</a></td>
+        <td>n/A</td>
     </tr>
     <tr>
         <td>03.01 Mobile Application - Cloud Hosted MySQL DB<sup>*</sup></td>
