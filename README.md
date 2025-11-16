@@ -32,7 +32,7 @@ The Patima application is a project that aimed to restore headless Sri Lankan Bu
         <td>03.02 Admin Panel + Server</td>
         <td>06, 07, 08, 11, 12, 13, 14, 17, 18, 23, 24, 25, 26</td>
         <td><a href="https://github.com/DumiduPramith/patima-backend-django">Github Link</a></td>
-        <td><a href="http://140.238.225.128/admin/login">Goto Admin Panel</a></td>
+        <td>n/A</td>
     </tr>
     <tr>
         <td>04. Technical Report</td>
